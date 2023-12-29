@@ -1,0 +1,1693 @@
+@media only screen and (min-width:1600px){
+    .works-content {
+        margin-left: -350px;
+    }
+    .loving-challenger .border-left-right   {
+        max-width: 790px;
+    }
+    .service-challenger .counter-box span::after {width: 150%;}
+}
+
+@media only screen and (max-width:1400px) {
+    .outline-area .loving-challenger-photo {
+        max-width: 580px;
+    }
+}
+@media only screen and (max-width:1280px){
+    .circle {
+        width: 240px;
+        height: 240px;
+    }
+    .round-box-wrap {
+        position: relative;
+        height: 80%;
+        width: 89%;
+    }
+    .circle-text {
+        font-size: 20px;
+    }
+    .techonology-area {
+        overflow: hidden;
+    }
+    .map-view-box {
+        width: 44%;
+    }
+    .japan-map {
+        max-width: 300px;
+    }
+    .feature-area {
+        padding-left: 50px;
+    }
+    .border-bottom-top {
+        left: 30px;
+    }
+    .bottom-menu ul >li {
+        width: auto;
+    }
+    .bottom-menu ul li ul li {
+        width: auto;
+    }
+    .bottom-menu ul >li::after {
+        width: 100%;
+        max-width: 170px;
+    }
+    .other-common-banner .hero-circle-box {
+        width: 650px;
+        height: 650px;
+        top: 10px;
+      }
+      .other-common-banner .hero-circle-area {
+        top: 0px;
+      }
+      .banner-info {
+        max-width: 445px;
+        padding-bottom: 16px;
+    }
+    .loving-challenger .border-bottom-top {
+        left: 40px;
+    }
+    .loving-challenger .border-left-right {
+        max-width: 68px;
+    }
+    .loving-challenger-photo {
+        max-width: 600px;
+    }
+    .loving-challenger-reverse .border-bottom-top {
+        left: initial;
+        right: 40px;
+    }
+    .loving-challenger-reverse  .loving-challenger-info {
+        padding-right: 40px;
+      }
+      .outline-area .loving-challenger-info {
+        padding-left: 0px;
+      }
+    .outline-area .loving-challenger-photo {
+        max-width: 520px;
+    }
+    .outline-area .loving-challenger-info {
+        max-width: 510px;
+    }
+    .development-list {
+        padding-bottom: 190px;
+    }
+   
+    .service-value-area .loving-challenger-photo {
+        top: -100px;
+    }
+    .service-value-area .loving-challenger-info h3 {
+        font-size: 40px;
+        line-height: 48px;
+    }
+    .service-challenger.loving-challenger-reverse h3 {
+        letter-spacing: 0;
+    }
+    .left .circle3 {
+        margin-right: 205px;
+    }
+    .left .circle1 {
+      margin-top: 158px;
+      margin-left: 99px;
+    }
+    .left .circle2 {
+        margin-bottom: 162px;
+        margin-left: 106px;
+    }
+    .right .circle1 {
+        margin-left: -107px;
+        margin-top: 156px;
+    }
+      
+    .right .circle3 {
+        margin-right: 99px;
+        margin-bottom: 163px;
+    }
+    .right .circle2 {
+        margin-top: 0px;
+        margin-left: 205px;
+    }
+    
+    .development-project {
+        padding-top: 80px;
+    }
+    .use-casebox-icon img {
+        width: 100%;
+    }
+    .use-casebox-item:first-child .use-casebox-icon {
+        max-width: 100px;
+    }
+    .use-casebox-item {
+        padding: 24px 60px;
+    }
+    .lab-based-developarea {
+        padding-left: 40px;
+    }
+    .labbase-border {
+        width: 236px;
+    }
+    
+      
+}
+
+@media only screen and (max-width:1200px){
+    .development-content {
+        padding-left: 40px;
+    }
+    .development-project {
+        padding-right: 40px;
+    }
+    .use-case-area .development-project{
+        padding-left: 40px;
+        padding-right: 0px;
+    }
+    .loving-challenger-reverse .service-info {
+        padding-left: 0px;
+        padding-right: 40px;
+    }
+    .service-info,
+    .loving-challenger-info{
+        padding-left: 40px;
+    }
+    .loving-challenger-photo {
+        max-width: 520px;
+    }
+    .team-container {
+        padding-left: 66px;
+    }
+    .outline-area .loving-challenger-photo {
+        max-width: 470px;
+    }
+    .outline-area .loving-challenger-info {
+        max-width: 480px;
+    }
+    .compatible-tools .development-project {
+        padding-right: 0px;
+        padding-left: 40px;
+    } 
+    .specific-team-box {
+        width: 135px;
+        height: 88px;
+        padding: 10px;
+    }
+    .specific-team-box strong {
+        font-size: 11px;
+        line-height: 15px;
+    }
+    .specific-team-single span {
+        font-size: 10px;
+        line-height: 15px;
+        width: 60px;
+    }
+    .specific-item1 img {
+        width: 13px;
+    }
+    .specific-team-single img {
+        max-width: 53px;
+    }
+    .specific-item1 {
+        margin-bottom: 8px;
+    }
+    .lab-based-bottom-item {
+        width: 110px;
+        height: 78px;
+    }
+    .lab-based-bottom-item strong {
+        font-size: 10px;
+        line-height: 15px;
+        padding-bottom: 15px;
+    }
+    .lab-based-bottom-item img {
+        width: 100%;
+    }
+    .labbased-customer span {
+        font-size: 11px;
+        line-height: 15px;
+    }
+    .labbased-customer strong {
+        padding-bottom: 7px;
+    }
+    .lab-based-demo {
+        max-width: 348px;
+    }
+    .labbased-customer {
+        margin-left: 60px;
+    }
+    .labbase-border {
+        width: 175px;
+        height: 75px;
+        top: -54px;
+        left: 24px;
+    }
+    .right-big-arrow {
+        position: absolute;
+        top: 18px;
+        right: 108px;
+        width: 66px;
+    }
+    .right-big-arrow img {
+        width: 100%;
+    }
+    .service-single-wrap {
+        width: calc(calc(100% - 32px) / 3);
+    }
+}
+
+@media only screen and (max-width:1024px){
+    .hero-circle-box {
+        width: 550px;
+        height: 550px;
+        padding: 38px;
+    }
+    .hero-circle-main {
+        width: 100%;
+        height: 100%;
+        z-index: 2;
+    }
+    .hero-circle-main h3 {
+        font-size: 45px;
+    }
+    .text-ac {
+        font-size: 60px;
+        line-height: 65px;
+    }
+    .antiClockwise {
+        width: 93%;
+        height: 93%;
+        top: 20px;
+        left: 20px;
+    }
+    .nav ul {
+        gap: 0px 18px;
+    }
+    .other-common-banner .hero-circle-box {
+        width: 618px;
+        height: 618px;
+        top: 35px;
+    }
+    .other-common-banner .hero-circle-main {
+        padding: 0px;
+    } 
+    
+}
+
+@media only screen and (max-width:991px){
+    .loving-challenger-reverse .service-info {
+        padding-right: 0px;
+    }
+    .lab-based-developarea {
+        padding-left: 0px;
+    }
+    .service-info {
+        padding-left: 0px;
+    }
+    .round-box {
+        margin: 0 auto;
+    }
+    .techonology-box {
+        flex-direction: column-reverse;
+    }
+    .round-box-wrap {
+        position: relative;
+        height: 100%;
+        width: 100%;
+    }
+    .round-box {
+        max-width: 440px;
+        height: 404px;
+    }
+    .techonology-info {
+        padding-top: 56px;
+    }
+    .techonology-info .btn-box {
+        display: flex;
+        justify-content: center;
+        padding-top: 40px;
+    }
+    .techonology-area {
+        padding-top: 150px;
+        padding-bottom: 30px;
+    }
+    .feature-info {
+        padding-top: 40px;
+        max-width: 100%;
+        padding-bottom: 30px;
+    }
+    .map-view-box {
+        position:initial;
+        width: 100%;
+        max-width:590px;
+        margin: 0 auto;
+    }
+    .japan-map {
+        position:relative;
+        margin-left: auto;
+    }
+    .feature-area .btn-box {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .japan-map img {
+        width: 100%;
+    }
+    .feature-area .btn-box {
+        margin-left: -60px;
+    }
+    .works-content {
+        margin-left: -220px;
+    }
+    .works-item h6 {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .works-item h5 {
+        font-size:24px;
+        line-height: 24px;
+    }
+    .works-area {
+        padding-top: 80px;
+    }
+    .common-bottom-menu .border-bottom-top {
+        left: 30px;
+    }
+    .common-bottom-menu .border-topbottom-right {
+        right: 30px;
+        left: inherit;
+    }
+    .common-bottom-menu .border-topbottom-middle {
+        left: 50%;
+    }
+    .other-common-banner .hero-circle-box {
+        width: 545px;
+        height: 545px;
+    }
+    .loving-challenger-conent {
+        flex-direction: column-reverse;
+    }
+    .loving-challenger-photo {
+        max-width: 100%;
+        top:-20px;
+        left: 0px;
+        margin-left: 0px;
+        height: 300px;
+        position: relative;
+        margin-top: -214px;
+    }
+    .loving-challenger-photo img {
+        height: 300px;
+        object-fit: cover;
+    }
+    .loving-challenger-conent {
+        padding-right: 0px;
+    }
+    .loving-challenger-reverse .loving-challenger-info {
+        padding-right: 16px;
+    }
+    .loving-challenger .border-bottom-top {
+        left: 8px;
+    }
+    .loving-challenger-reverse .border-bottom-top {
+        left:initial;
+        right: 8px;
+    }
+    .counter-box {
+        position: relative;
+    }
+    .loving-challenger-info {
+        padding-left: 0px;
+        max-width: 100%;
+        padding-right: 16px;
+    }
+    .loving-challenger .border-left-right {
+        max-width: 30px;
+        top: 14px;
+        left: -16px;
+    }
+    .loving-challenger-reverse .border-left-right {
+        max-width: 30px;
+        top: 14px;
+        left: initial;
+        right: -16px;
+    }
+    .loving-challenger-reverse .loving-challenger-conent {
+        padding-left: 0px;
+    }
+    .loving-challenger-reverse .oving-challenger-box {
+        padding-left:16px;
+    }
+    .loving-challenger {
+        padding-bottom: 210px;
+        padding-top:100px;
+    }
+    .loving-challenger-reverse {
+        padding-bottom: 80px;
+    }
+    .border-bottom-top {
+        left: 7px;
+    }
+    .team-container {
+        padding-left: 16px;
+    }
+    .outline-content {
+        flex-direction: column-reverse;
+    }
+    .outline-area .loving-challenger-info{
+        max-width: 100%;
+    }
+    .outline-area .loving-challenger-photo {
+        max-width: 100%;
+        position: initial;
+        margin: 0px;
+        height: auto;
+    }
+    .outline-area .loving-challenger-photo img {
+        height: auto;
+        border-radius: 20px;
+    }
+    .outline-area .loving-challenger-photo, .outline-area .bg-overlagy{
+        animation: none;
+    }
+    .outline-area .common-titel h2 {
+        padding-bottom: 24px;
+    }
+    .outline-area {
+        padding:80px 0px 120px 0px;
+    }
+    .outline-area .loving-challenger-info {
+        padding-right: 0px;
+        padding-top: 24px;
+    }
+    .service-through {
+        flex-direction: column-reverse;
+    }
+    .service-info,
+    .serviec-details,
+    .serviec-details-inner {
+        width: 100%;
+        max-width: 100%;
+    }
+    .serviec-details {
+        padding-left: 0px;
+        padding-bottom: 56px;
+    }
+    .serviec-detail-right br {
+        display: none;
+    }
+    .works-about .loving-challenger-photo {
+        margin-top: -180px;
+    }
+    .works-about {
+        padding-top: 190px;
+    }
+    .works-about .counter-box span {
+        margin-top:34px
+    }
+    .works-about .loving-challenger .border-left-right {
+        top: 14px;
+    }
+    .container.service-through {
+        padding-top: 32px;
+        padding-bottom: 80px;
+    }
+    .loving-challenger-reverse .service-through {
+        flex-direction: column-reverse;
+    }
+    .works-about .loving-challenger-reverse .loving-challenger-info {
+        max-width: 100%;
+    }
+    .works-about .loving-challenger-reverse .border-left-right {
+        top: 48px;
+    }
+    .loving-challenger-reverse .serviec-details-inner {
+        padding:24px 16px;
+    }
+    .loving-challenger-reverse .serviec-details {
+        padding-right: 0px;
+    }
+    .works-about .loving-challenger {
+        padding-bottom: 170px;
+    }
+    .works-about .loving-challenger.loving-challenger-reverse {
+        padding-bottom: 0px;
+    }
+    .news-area {
+        padding-bottom: 300px;
+    }
+    .works-about .casethree-lovchange,
+    .outline-area {
+        padding-bottom: 300px;
+    }
+    .news-event-items .news-blog-single {
+        width: calc(calc(100% - 32px) / 3);
+    }
+    .news-event-area {
+        padding-bottom: 300px;
+    }
+    .contact-area {
+        padding-top: 0px;
+        padding-bottom: 300px;
+    }
+    .service-value-area {
+        padding-top: 0px;
+    }
+    .service-challenger {
+        padding-top: 180px;
+    }
+    .development-list {
+        padding-bottom: 210px;
+    }
+    .numbar-count-image {
+        max-width: 190px;
+        top: -108px;
+    }
+    .development-item-single {
+        text-align: center;
+        width: calc(calc(100% - 16px) / 2)
+    }
+    .development-item-box {
+        justify-content: center;
+    }
+    .development-project {
+        padding-right: 0px;
+    }
+    .d-project-logo {
+        max-width: 150px;   
+    }
+    .d-project-logo img {
+        width: 100%;
+    }
+    .d-project-item:first-child .d-project-logo {
+        max-width: 130px;
+    }
+    .use-case-area .development-project {
+        padding-left: 0px;
+    }
+    .development-text {
+       width: 100%;
+       padding-top: 40px;
+    }
+    .use-case-area .development-project {
+        padding-top: 56px;
+    }
+    .use-casebox-item {
+        padding: 24px 30px;
+    }
+    .compatible-tools .development-project {
+        padding-left:0px;
+    }
+    .compatible-tools .use-casebox-item .use-casebox-icon {
+        max-width: 170px !important;
+        margin-top: 40px;
+        margin-bottom: 40px;
+    }
+    .service-challenger.social-innovation-area .loving-challenger-info {
+        max-width: 100%;
+        padding-left: 16px;
+    }
+    .service-challenger.loving-challenger-reverse h3 br {
+        display: none;
+    }
+    .social-innovation-area {
+        padding-bottom: 300px !important;
+    }
+    .service-single-wrap {
+        width: calc(calc(100% - 16px) / 2);
+    } 
+    .supported-language {
+        padding-bottom: 140px;
+    }
+    .supported-language .development-project {
+        padding-top: 110px;
+    }
+    .works-about .loving-challenger.casethree-lovchange {
+        padding-top: 46px;
+    }
+    .works-about .casethree-lovchange .container.service-through{
+        padding-bottom: 0px;
+    }
+}
+
+@media only screen and (max-width:990px){
+    .other-common-banner .hero-circle-box {
+        width: 480px;
+        height: 480px;
+        padding: 33px;
+    }
+    .news-single-blog-area .container  {
+        padding-bottom: 300px;
+    }
+    .logo {
+        width: 200px;
+        min-width: 200px;
+    }
+    .header + div {
+        padding-top: 84px;
+    }
+}
+
+@media only screen and (max-width:767px){
+    .only-desktop-view {
+        display: none;
+    }
+    .social-innovation-area {
+        padding-bottom: 288px !important;
+    }
+    .about-value-area .common-titel {
+        padding-bottom: 135px;
+    }
+    .loving-challenger {
+        padding-top: 170px;
+    }
+    .social-innovation-area .oving-challenger-box {
+        width: 100%;
+    }
+    .contact-form-box {
+        padding: 40px 8px 56px 8px;
+    }
+    .news-event-items .news-blog-single {
+        width: calc(calc(100% - 16px) / 2);
+    }
+    .news-single-blog-area .container {
+        padding-top:80px;
+        padding-bottom: 280px;
+    }
+    .contact-area {
+        padding-top: 66px;
+        padding-bottom: 288px;
+    }
+    .filter-box .green-btn {
+        width: calc(calc(100% - 22px) / 2);
+        min-width: auto;
+    }
+    .filter-box {
+        flex-wrap: wrap;
+        padding-bottom: 40px;
+        gap: 16px 22px;
+    }
+    .works-about .casethree-lovchange,
+    .outline-area {
+        padding-bottom: 288px;
+    }
+    .oving-challenger-box h5 {
+        font-size: 24px;
+        line-height: 28px;
+    }
+    .works-about .counter-box {
+        margin-top: 0px;
+    }
+    .hero-area {
+        padding: 0px;
+    }
+    .hero-circle-box {
+        width: 416px;
+        height: 416px;
+        margin-top: -150px;
+        margin-left: -90px;
+        padding: 20px;
+        text-align: start;
+    }
+
+    .hero-circle-main h3 {
+        font-size: 24px;
+        line-height: 28px;
+        text-align: start;
+    }
+    .text-ac {
+        font-size: 40px;
+        line-height: 45px;
+        text-align: start;
+    }
+    .hero-circle-main {
+        padding: 115px 0px 0px 70px;
+    }
+    .hero-circle-area {
+        height: 770px;
+    }
+    .antiClockwise {
+        width: 96%;
+        height: 96%;
+        top: 8px;
+        left: 8px;
+    }
+    .hero-area {
+        background-position: right -68px top 70px;
+        overflow: hidden;
+    }
+    .techonology-area {
+        padding-top: 80px;
+    }
+    .circle {
+        width: 200px;
+        height: 200px;
+    }
+    .circle-text {
+        font-size: 18px;
+        line-height: 24px;
+    } 
+    .round-box {
+        max-width: 370px;
+        height: 338px;
+    }
+    h4 {
+        font-size:24px;
+        line-height: 28px;
+    }
+      h2{
+        font-size:40px;
+        line-height: 45px;
+      }
+      .techonology-info h6 {
+         font-size: 18px;
+        line-height: 24px;
+        padding-bottom: 40px;
+    }
+    .common-titel {
+        padding-bottom: 40px;
+    }
+    .service-area .btn-box {
+        padding-top:50px
+    }
+    .border-bottom-top {
+        left: 10px;
+    }
+    .feature-area {
+        padding-left: 6px;
+        padding-left: 6px;
+        background-size: cover;
+        width: 100%;
+    }
+    .feature-area .common-titel {
+        padding-bottom: 0px;
+    }
+    .feature-info h4 {
+        padding-bottom: 18px;
+    }
+    .feature-info h6 {
+        font-size: 18px;
+        line-height: 24px;
+        padding-bottom: 40px;
+    }
+    .feature-info {
+        padding-bottom: 20px;
+    }
+    .feature-area .btn-box {
+        padding-top: 60px;
+    }
+    .feature-container {
+        padding-bottom: 90px;
+    }
+    .news-area {
+        padding-top: 65px;
+    }
+    .news-content-box {
+        flex-direction: column;
+    }
+    .common-titel {
+        padding-bottom: 0px;
+    }
+    .news-info-wrap {
+        width: 100%;
+        padding-left: 0px;
+        padding-bottom: 80px;
+    }
+    .news-area .btn-box {
+        justify-content: center;
+    }
+    .news-info-wrap {
+        padding-bottom: 40px;
+    }
+    .news-info-wrap {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .news-blog-single {
+        width: calc(calc(100% - 18px) / 2);
+        border: none;
+        flex-direction: column;
+    }
+    .news-info {
+        padding-left: 0px;
+        width: 100%;
+    }
+    .news-blog-photo {
+        width: 100%;
+        min-width: 100%;
+    }
+    .news-info-wrap {
+        gap: 10px;
+    }
+    .news-btn-box {
+        padding: 12px 0px 25px 0px;
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .news-btn-box span {
+        padding-right: 10px;
+    }
+    .news-info-wrap .news-blog-single:last-child {
+        border-bottom:none;
+    }
+    .green-btn {
+        padding: 1px 13px;
+    }
+    .left-arrwo {
+        margin: 0;
+        margin-top: 10px;
+        margin-right: auto;
+    }
+    .works-content {
+        margin: 0px;
+        padding: 0px 16px
+    }
+    .works-item-info {
+        padding: 24px 0px 0px 0px;
+        text-align: center;
+    }
+    .works-area .btn-box {
+        padding-top:60px;
+    }
+    .service-box {
+        padding-top: 40px;
+    }
+    .started-jounery-box {
+        flex-direction: column;
+        padding:32px 24px 24px 24px;
+        align-items: initial;
+    }
+    .started-info h4 {
+        line-height: 32px;
+    }
+    .started-info {
+        text-align: center;
+    }
+    
+    .started-jounery-box {
+        align-items: flex-end;
+    }
+    .started {
+        width: 100%;
+        display: flex;
+        justify-content: flex-end;
+        margin-bottom: 9px;
+    }
+    .started-jounery-box:hover .btn-box .btn i::after {
+        transform: scale(1.5);
+    }
+    .common-bottom-menu .border-bottom-top {
+        left: 7px;
+    }
+    .common-bottom-menu .border-topbottom-right {
+        right: 7px;
+        left: inherit;
+    }
+    .common-bottom-menu .border-topbottom-middle {
+        left: 50%;
+    }
+    .bottom-menu ul >li {
+        width: 100%;
+    }
+    .bottom-menu ul {
+        height: auto;
+    }
+    .bottom-menu ul >li::after {
+        max-width: 100%;
+    }
+    .bottom-logo-box {
+        max-width: 195px;
+        margin: 0 auto;
+        padding-bottom: 40px;
+    }
+    .bottom-logo-box img {
+        width: 100%;
+        background: transparent;
+    }
+    .bottom-menu ul {
+        gap: 25px;
+    }
+    .started-jounery-box {
+        background: url(../image/Revo-imge-mb.png)no-repeat;
+        background-size: cover;
+        background-position: center center;
+    }
+    .bottom-menu ul li:last-child {
+        order: 1;
+    }
+    .bottom-menu ul li:first-child {
+        order: 2;
+    }
+    .bottom-menu ul li:nth-child(2){
+        order: 3;
+    }
+    .bottom-menu ul li:nth-child(3){
+        order: 4;
+    }
+    .bottom-menu ul li:nth-child(4){
+        order: 5;
+    }
+    .only-mobile-view {
+        display: block;
+    }
+    .bottom-info {
+        text-align: center;
+        padding-top: 16px;
+        padding-left: 0px;
+        padding-bottom: 40px;
+    }
+    .bottom-info p {
+        padding-top: 24px;
+    }
+    .copyright p {
+        font-size: 12px;
+        line-height: 14px;
+    }
+    .bg-overlagy {
+        right: 0px;
+        top:115px;
+        width: 100%;
+    }
+    .footer-area .bg-overlagy {
+        top:initial;
+        bottom: 78px;
+    }
+    .bg-overlagy img {
+        width: 100%;
+    }
+    .footer-container {
+        padding-top: 220px;
+    }
+    .news-area {
+        padding-bottom: 288px;
+    }
+    .map-view-box {
+        height: auto;
+    }
+    .bd-map {
+        max-width: 163px;
+    }
+    .bd-map img {
+        width: 100%;
+    }
+    .japan-map  {
+        bottom: 0px;
+        max-width: 232px;
+        margin-top: -130px;
+        right: -14px;
+    }
+    .map-view-box {
+        max-width: 370px;
+    }
+    .blinking-bg, .blinking-inner {
+        width: 10px;
+        height: 10px;
+    }
+    .blinking-icon {
+        position: absolute;
+        bottom: 110px;
+        left: 60px;
+    }
+    .japan-map .blinking-icon {
+        bottom: 90px;
+        left: 40px;
+    }
+    .mobile-menu  {
+        display: flex;
+        justify-content: flex-end;
+    }
+   .header .common-bottom-menu {
+        position: absolute;
+        top: 82px;
+        width: 100%;
+        margin-left: -100%;
+        opacity: 0;
+        transition: all .3s ease;
+    }
+    .common-bottom-menu.open {
+        margin-left: 0px;
+        opacity: 1;
+        transition: all .3s ease;
+        height: 100vh;
+    }
+    .header .footer-container {
+        padding-top: 45px;
+    }
+    .header .bottom-menu ul li:first-child {
+        order: 1;
+    }
+    .header .bottom-logo-box {
+        padding-bottom: 20px;
+        padding-top: 20px;
+    }
+    .vision-info {
+        max-width:100%;
+        padding-bottom: 40px;
+    }
+    .vision-inner {
+        background: var(--color-f8f8f8);
+    }
+    .vision-photo img{
+        width: 100%;
+    }
+    .vision-photo {
+        margin: 0px -16px;
+    }
+    .vision-info h3 span, .vision-info h3 {
+        font-size: 38px;
+        line-height: 48px;
+    }
+    .vision-inner .common-titel {
+        top:24px;
+    }
+    .vision-area {
+        padding-top: 60px;
+    }
+    .vision-info {
+        padding-top: 40px;
+    }
+    .vision-info h3 {
+        padding-bottom: 40px;
+    }
+    .other-common-banner .hero-circle-box {
+        width: 493px;
+        height: 493px;
+        padding: 20px;
+        top: 7px;
+    }
+    .other-common-banner .banner-info {
+        max-width: 100%;
+        padding-top: 420px;
+        padding-bottom: 80px;
+    }
+    .other-common-banner .hero-circle-area {
+        right: -128px;
+        top: 120px;
+    }
+    .other-common-banner .hero-circle-text {
+        height: auto;
+        padding-bottom: 40px;
+    }
+    .other-common-banner  .hero-circle-area {
+        height: auto;
+    }
+    .other-common-banner  .banner-info p {
+        padding-top: 40px;
+    }
+    .nav-toggler {
+        transition: all .3s ease;
+    }
+    .nav-toggler.toggler-open{
+        transform: rotate(90deg);
+    }
+    .nav-toggler.toggler-open  span:nth-child(2) {
+        display: none;
+    }
+    .nav-toggler.toggler-open  span:first-child {
+        transform: rotateZ(45deg)
+    }
+    .nav-toggler.toggler-open  span:last-child {
+        transform: rotateZ(-45deg);
+        margin-top: -12px;
+    }
+    .started-jounery-box:hover .right-border-box {
+        right: -100px;
+        opacity: 1;
+    }
+    .right-border-box {
+        position: absolute;
+        width: 350px;
+        height: 350px;
+        right: -432px;
+        top: 146px;
+    }
+    .about-value-area {
+        padding-top: 40px;
+    }
+    .about-value-area .common-titel h2 {
+        padding-bottom: 30px;
+    }
+    .counter-box {
+        margin-top:24px;
+    }
+    .loving-challenger-photo {
+        height: 270px;
+        top:-80px;
+    }
+    .loving-challenger-photo img {
+        height: 270px;
+    }
+    .loving-challenger-info h3 {
+        font-size: 40px;
+        line-height: 48px;
+        padding-bottom: 40px;
+    }
+    .team-container {
+        padding-left: 16px;
+    }
+    .team-title h3 {
+        font-size: 32px;
+        line-height: 37px;
+        padding-bottom: 40px;
+    }
+    .our-team-area .border-left-right {
+        top:15px;
+    }
+    .team-box {
+        flex-direction: column;
+    }
+    .team-box-item {
+        width: 100%;
+    }
+    .our-team-area .border-bottom-top {
+        left: 7px;
+    }
+    .our-team-area .border-left-right {
+        left: -16px;
+        max-width: 30px;
+    }
+    .team-box {
+        gap:24px 0px;
+    }
+    .bd-team-box {
+        flex-direction: column-reverse;
+    }
+    .bd-team-info {
+        max-width: 100%;
+        position: relative;
+        z-index: 1;
+        padding-bottom: 60px;
+    }
+    .bd-team-info::after {
+        content: "";
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        bottom: 0px;
+        left: 0px;
+        background:url(../image/map.png)no-repeat;
+        background-position: center center;
+        background-size: contain;
+        z-index: 0;
+    } 
+    .bd-team-item {
+        width:100%;
+    }
+    .bd-team-box-sigle {
+        padding-top: 80px;
+    }
+    .bd-team-photo {
+        height: 360px;
+    }
+    .bd-team-item img {
+        height: 380px;
+    }
+    .our-team-area {
+        padding-bottom: 0px;
+    }
+    .outline-item {
+        flex-direction: column;
+    }
+    .outline-right-item,
+    .outline-left-item {
+        width: 100%;
+    }
+    .outline-left-item strong {
+        padding-bottom: 18px;
+        display: block;
+    }
+    .works-about {
+        padding-top: 190px;
+    }
+    .works-about  .loving-challenger-photo img {
+        height: 240px;
+    }
+    .works-about .loving-challenger-photo {
+        height: 240px;
+    }
+    .works-about .loving-challenger-photo {
+        margin-top: -145px;
+    }
+    .works-about .loving-challenger-info h6 {
+        font-size: 18px;
+        line-height: 24px;
+        font-weight: 400;
+        font-family: 'ArialRegular';
+    }
+    .works-about .loving-challenger-info h3 {
+        font-size: 32px;
+        line-height: 37px;
+        padding-bottom: 8px;
+    }
+    .serviec-details-inner {
+        padding: 24px 16px 40px 16px;
+    }
+    .serviec-detail-item {
+        flex-direction: column;
+    }
+    .serviec-detail-left {
+        width:100%;
+        min-width:100%;
+    }
+    .serviec-detail-item {
+        padding-bottom: 24px;
+    }
+    .serviec-detail-left {
+        padding-bottom: 4px;
+    }
+    .service-info p {
+        padding-bottom: 56px;
+    }
+    .news-event-area {
+        padding-top: 40px;
+    }
+    .news-event-area h6 {
+        padding-bottom: 32px;
+    }
+    .news-event-items .green-btn {
+        font-size: 16px;
+        height: 22px;
+        min-width: 144px;
+    }
+    .news-event-area .news-btn-box span {
+        font-size: 20px;
+        line-height: 25px;
+    }
+    .pagination {
+        padding-top: 80px;
+    }
+    .news-event-items .news-blog-single {
+        width: 100%;
+    }
+    .news-event-area {
+        padding-bottom: 288px;
+    }
+   .news-single-blog-area .news-btn-box {
+      justify-content: flex-start;
+   }
+   .news-single-blog-area .news-btn-box span {
+        font-size: 20px;
+        line-height: 25px;
+        padding-right: 40px;
+   }
+   .news-single-box .green-btn {
+        font-size: 16px;
+        line-height: 20px;
+        min-width: 144px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+   }
+   .news-single-box h5 {
+    font-size: 18px;
+    line-height: 30px;
+   }
+   .news-single-box img {
+      margin-top: 40px;
+      margin-bottom: 24px;
+   }
+   .news-single-blog-area .btn-box {
+    padding-top: 90px;
+   }
+   .development-list ul {
+    flex-direction: column;
+   }
+   .service-value-area {
+    padding-top: 80px;
+   }
+   .development-list ul li {
+     margin-bottom: 24px;
+   }
+   .development-list ul li:last-child {
+     margin-bottom: 0px;
+   }
+   .service-challenger .numbar-count-image {
+        max-width: 134px;
+        top: -52px;
+    }
+   .service-challenger {
+        padding-top: 190px;
+    }
+    .counter-box {
+        margin-top: -72px;
+    }
+    .development-item-single {
+        width: 100%;
+    }
+    .development-content {
+        padding-left: 0px;
+    }
+    .development-info {
+        border: 1px solid #333333;
+    }
+    .our-solution .development-info {
+        border: 1px solid var(--color-10c59a);
+    }
+    .development-item-box {
+        gap:56px 0px;
+        padding-top: 40px;
+    }
+    .service-value-area .loving-challenger-info h3 {
+        font-size: 32px;
+        line-height: 37px;
+    }
+    .service-circle-item h6 {
+        font-size: 14px;
+        line-height: 30px;
+    }
+    .circle-btn {
+        font-size: 16px;
+        line-height: 30px;
+        height: 26px;
+         padding: 1px 4px;
+    }
+    .service-circle-item {
+        width: 78px;
+        height: 78px;
+        margin: 0px -4px;
+    }
+    .service-circle-box {
+        justify-content: center;
+        align-items: center;
+        padding-left: 0px;
+        padding-right: 4px;
+    }
+    .service-circle-wrap {
+        padding-top: 56px;
+        max-width: 360px;
+    }
+    .service-circle-btn {
+        padding-top: 10px;
+    }
+    .service-circle-text {
+        padding-top: 56px;
+    }
+    .left .circle3 {
+        margin-right: 168px;
+    }
+    .left .circle1 {
+      margin-top: 136px;
+      margin-left: 82px;
+    }
+    .left .circle2 {
+        margin-bottom: 134px;
+        margin-left: 90px;
+    }
+    .right .circle1 {
+        margin-left: -88px;
+        margin-top: 136px;
+    }
+      
+    .right .circle3 {
+      margin-right: 80px;
+      margin-bottom: 135px;
+    }
+    .right .circle2 {
+      margin-top: 0px;
+      margin-left: 170px;
+    }
+    .d-project-item {
+        width: calc(calc(100% - 20px) / 2);
+    }
+    .development-project {
+        padding-top: 80px;
+    }
+    .development-project h4 {
+        padding-bottom: 56px;
+        font-size: 24px;
+        line-height: 40px;
+    }
+    .d-project-logo {
+        max-width: 122px;
+    }
+    .d-project-item:first-child .d-project-logo {
+        max-width: 100px;
+    }
+    .d-project-item h6 {
+        font-size: 16px;
+        line-height: 30px;
+    }
+    .development-project-wrap {
+        gap:56px 20px
+    }
+    .service-challenger.loving-challenger-reverse .btn-box{
+        padding-top: 65px;
+    }
+    .supported-language .development-project {
+        padding-top: 90px;
+    }
+    .supported-language .serviec-detail-left {
+        width: 100%;
+        min-width: 100%;
+        padding-bottom: 0px;
+    }
+    .supported-language .serviec-detail-right span {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .supported-language .serviec-detail-item {
+        padding-bottom: 24px;
+    }
+    .supported-language .serviec-detail-item:last-child {
+        padding-bottom: 0px;
+    }
+    .use-casebox-item {
+        width: 100%;
+    }
+    .use-case-area .development-project h4 {
+        padding-bottom: 40px;
+    }
+    .use-casebox-item {
+        padding: 16px;
+    }
+    .use-casebox-item h6 {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .use-casebox-icon {
+        margin-bottom: 40px;
+        max-width: 320px;
+    }
+    .use-casebox-item:first-child .use-casebox-icon {
+        max-width: 120px;
+    }
+    .use-casebox {
+        gap:24px 0px;
+    }
+    .compatible-tools .use-casebox-item {
+        width: 100%;
+    }
+    .compatible-tools .development-project h4 {
+        padding-bottom: 40px;
+    }
+    .compatible-tools .use-casebox-item h6 {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .compatible-tools .use-casebox-item .use-casebox-icon {
+        max-width: 242px !important;
+        margin-top: 50px;
+       margin-bottom: 50px;
+    }
+    .service-value-area .compatible-tools .btn-box {
+        padding-top: 66px;
+    }
+    .lab-based-developarea {
+        flex-direction: column;
+    }
+    .lab-based-info, .lab-based-demo {
+        width: 100%;
+    }
+    .lab-based-demo {
+        margin: 0 auto;
+    }
+    .lab-based-developarea {
+        padding-top: 56px;
+        gap:6px;
+    }
+    .lab-based-info {
+        max-width: 100%;
+        padding-left: 0px;
+        padding-top: 40px;
+    }
+    .lab-based-info h5 {
+        font-size: 24px;
+        line-height: 40px;
+        padding-bottom: 24px;
+    }
+    .development-content {
+        padding-top: 80px;
+    }
+    .service-value-area .btn-box {
+        padding-top: 66px; 
+    }
+    .service-single-wrap {
+        width:100%;
+    }
+    .service-area {
+        padding-top: 58px;
+        padding-bottom: 86px;
+    }
+    .works-about .loving-challenger-photo {
+        top:0px;
+    }
+    .service-challenger.loving-challenger-reverse .counter-box span::after {
+        top:13px;
+    }
+    .bottom-menu ul li ul li {
+       margin-top:20px;
+    }
+    .back-to-top {
+        width: 40px;
+        height: 40px;
+        bottom: 20px;
+        right: 16px;
+    }
+    .back-to-top span { 
+        font-size: 10px;
+        margin-top: -2px;
+    }
+}
+@media only screen and (max-width:480px){
+    .news-blog-single {
+        width: 100%;
+    }
+    
+    .revo-partner-map {
+        /* width: 230%;
+        margin-left: -440px; */
+        width: 100%;
+    }
+}
+@media only screen and (max-width:390px){
+    .servive-item > img{
+        height: 370px;
+        object-fit: cover;
+    }
+}
+@media only screen and (max-width:388px){
+    .circle {
+        width: 170px;
+        height: 170px;
+    }
+    .round-box {
+        max-width: 324px;
+        height: 302px;
+    }
+    /* .revo-partner-map {
+        margin-left: -370px;
+    } */
+    .bottom-menu ul {
+        gap: 25px;
+    }
+    .bottom-menu ul li ul li {
+        margin-top: 18px;
+    }
+    .header .bottom-logo-box {
+        padding-bottom: 25px;
+        padding-top: 25px;
+    }
+    .bd-team-photo {
+        height: 320px;
+    }
+    .bd-team-item img {
+        height: 340px;
+    }
+    .service-through .green-btn {
+        font-size: 16px;
+    }
+    .service-circle-item {
+        width: 70px;
+        height: 70px;
+        margin: 0px -4px;
+    }
+    .service-circle-item h6 {
+        font-size: 13px;
+    }
+    .left .circle3 {
+        margin-right: 151px;
+    }
+    .left .circle1 {
+      margin-top: 130px;
+      margin-left: 76px;
+    }
+    .left .circle2 {
+        margin-bottom: 125px;
+        margin-left: 75px;
+    }
+
+    .right .circle1 {
+        margin-left: -75px;
+        margin-top: 136px;
+    }
+      
+    .right .circle3 {
+      margin-right: 80px;
+      margin-bottom: 120px;
+    }
+    .right .circle2 {
+      margin-top: 0px;
+      margin-left: 151px;
+    }
+   
+}
+@media only screen and (max-width:370px){
+    .vision-info h3,
+    .vision-info h3 span{
+        font-size: 32px;
+        line-height: 38px;
+    }
+    .other-common-banner .hero-circle-box {
+        width: 460px;
+        height: 460px;
+    }
+    .other-common-banner .banner-info {
+        padding-top:410px;
+    }
+    .service-circle-item {
+        width: 60px;
+        height: 60px;
+        margin: 0px -2px;
+    }
+    .service-circle-item h6 {
+        font-size: 12px;
+    }
+    .circle-btn {
+        font-size: 14px;
+    }
+    .lab-based-top {
+       padding-left: 16px;
+    }
+    .labbase-border {
+        width: 160px;
+        height: 75px;
+        top: -55px;
+        left: 11px;
+    }
+    .specific-team-box {
+        width: 126px;
+        height: 80px;
+        padding: 8px;
+    }
+}
+@media only screen and (max-width:350px){
+    .circle-text {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .circle {
+        width: 150px;
+        height: 150px;
+    }
+    .left .circle3,
+    .left .circle1, 
+    .left .circle2,
+    .right .circle1,
+    .right .circle2,
+    .right .circle3 {
+        margin: 0px;
+    }
+    .round-box {
+        max-width: 280px;
+        height: 263px;
+    }
+}

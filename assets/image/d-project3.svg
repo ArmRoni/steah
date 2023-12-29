@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="144" viewBox="0 0 180 144">
+  <g id="グループ_4301" data-name="グループ 4301" transform="translate(-731 -3787)">
+    <path id="Icon_awesome-laptop" data-name="Icon awesome-laptop" d="M175.5,117H107.308a8.866,8.866,0,0,1-9.208,9H81c-5.257,0-9.287-4.913-9.217-9H4.5A4.513,4.513,0,0,0,0,121.5V126a18.053,18.053,0,0,0,18,18H162a18.053,18.053,0,0,0,18-18v-4.5A4.513,4.513,0,0,0,175.5,117ZM162,13.5A13.54,13.54,0,0,0,148.5,0H31.5A13.54,13.54,0,0,0,18,13.5V108H162ZM144,90H36V18H144Z" transform="translate(731 3787)" fill="#333"/>
+    <g id="グループ_4299" data-name="グループ 4299" transform="translate(-9.035 5)">
+      <g id="楕円形_41" data-name="楕円形 41" transform="translate(812 3835)" fill="#f8f8f8" stroke="#333" stroke-width="4">
+        <circle cx="10" cy="10" r="10" stroke="none"/>
+        <circle cx="10" cy="10" r="8" fill="none"/>
+      </g>
+      <rect id="長方形_1914" data-name="長方形 1914" width="6" height="6" transform="translate(819 3832)" fill="#333"/>
+      <rect id="長方形_1915" data-name="長方形 1915" width="6" height="6" transform="translate(819 3852)" fill="#333"/>
+      <rect id="長方形_1916" data-name="長方形 1916" width="6" height="6" transform="translate(831.758 3835.902) rotate(60)" fill="#333"/>
+      <rect id="長方形_1917" data-name="長方形 1917" width="6" height="6" transform="translate(814.438 3845.902) rotate(60)" fill="#333"/>
+      <rect id="長方形_1918" data-name="長方形 1918" width="6" height="6" transform="translate(809.242 3841.098) rotate(-60)" fill="#333"/>
+      <rect id="長方形_1919" data-name="長方形 1919" width="6" height="6" transform="translate(826.562 3851.098) rotate(-60)" fill="#333"/>
+    </g>
+    <g id="グループ_4300" data-name="グループ 4300" transform="translate(11.965 -9.978)">
+      <g id="楕円形_41-2" data-name="楕円形 41" transform="translate(811 3833.978)" fill="#f8f8f8" stroke="#333" stroke-width="4">
+        <circle cx="8.5" cy="8.5" r="8.5" stroke="none"/>
+        <circle cx="8.5" cy="8.5" r="6.5" fill="none"/>
+      </g>
+      <rect id="長方形_1914-2" data-name="長方形 1914" width="5" height="5" transform="translate(817 3831.978)" fill="#333"/>
+      <rect id="長方形_1915-2" data-name="長方形 1915" width="5" height="5" transform="translate(817 3847.978)" fill="#333"/>
+      <rect id="長方形_1916-2" data-name="長方形 1916" width="4.841" height="4.841" transform="translate(827.409 3835.148) rotate(60)" fill="#333"/>
+      <rect id="長方形_1917-2" data-name="長方形 1917" width="4.841" height="4.841" transform="translate(813.434 3843.216) rotate(60)" fill="#333"/>
+      <rect id="長方形_1918-2" data-name="長方形 1918" width="4.841" height="4.841" transform="translate(809.242 3839.341) rotate(-60)" fill="#333"/>
+      <rect id="長方形_1919-2" data-name="長方形 1919" width="4.841" height="4.841" transform="translate(823.216 3847.409) rotate(-60)" fill="#333"/>
+    </g>
+  </g>
+</svg>

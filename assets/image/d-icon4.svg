@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="126.001" viewBox="0 0 100 126.001">
+  <g id="グループ_4266" data-name="グループ 4266" transform="translate(-265 -1954.999)">
+    <path id="Icon_awesome-coins" data-name="Icon awesome-coins" d="M62.5,20C83.2,20,100,15.516,100,10S83.2,0,62.5,0,25,4.484,25,10,41.8,20,62.5,20ZM0,46.938V55c0,5.516,16.8,10,37.5,10S75,60.516,75,55V46.938C66.934,52.25,52.168,55,37.5,55S8.066,52.25,0,46.938ZM37.5,25C16.8,25,0,30.594,0,37.5S16.8,50,37.5,50,75,44.406,75,37.5,58.2,25,37.5,25Zm42.832,8.8C92.051,32.109,100,28.8,100,25V18.328c-6.934,3.922-18.848,6.031-31.387,6.531C74.375,27.094,78.613,30.094,80.332,33.8Z" transform="translate(265 2016)" fill="#10c59a"/>
+    <g id="グループ_4263" data-name="グループ 4263" transform="translate(287 1954.999)">
+      <path id="合体_43" data-name="合体 43" d="M16.8,0V20.5H0L28,41,56,20.5H39.2V0Z" transform="translate(0 12)" fill="#10c59a"/>
+      <rect id="長方形_1794" data-name="長方形 1794" width="22.4" height="4" transform="translate(16.8 7)" fill="#10c59a"/>
+      <rect id="長方形_1795" data-name="長方形 1795" width="22.4" height="3" transform="translate(16.8 3)" fill="#10c59a"/>
+      <rect id="長方形_1796" data-name="長方形 1796" width="22.4" height="2" transform="translate(16.8)" fill="#10c59a"/>
+    </g>
+  </g>
+</svg>

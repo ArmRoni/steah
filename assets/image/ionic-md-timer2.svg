@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="352" height="106.796" viewBox="0 0 352 106.796">
+  <g id="グループ_4272" data-name="グループ 4272" transform="translate(-783 -5712.204)">
+    <path id="合体_65" data-name="合体 65" d="M105.6,100H48v-.039A49.96,49.96,0,0,1,0,50,50.015,50.015,0,0,1,96.072,30.538,49.707,49.707,0,0,1,100,50H90a40.009,40.009,0,0,0-76.856-15.57A39.987,39.987,0,0,0,50,90h55.6V83.206L126,95l-20.4,11.8Z" transform="translate(783 5712.204)" fill="#333"/>
+    <path id="合体_67" data-name="合体 67" d="M105.6,100H48v-.039A49.96,49.96,0,0,1,0,50,50.015,50.015,0,0,1,96.072,30.538,49.707,49.707,0,0,1,100,50H90a40.009,40.009,0,0,0-76.856-15.57A39.987,39.987,0,0,0,50,90h55.6V83.206L126,95l-20.4,11.8Z" transform="translate(896 5712.204)" fill="#333"/>
+    <path id="合体_69" data-name="合体 69" d="M105.6,100H48v-.039A49.96,49.96,0,0,1,0,50,50.015,50.015,0,0,1,96.072,30.538,49.707,49.707,0,0,1,100,50H90a40.009,40.009,0,0,0-76.856-15.57A39.987,39.987,0,0,0,50,90h55.6V83.206L126,95l-20.4,11.8Z" transform="translate(1009 5712.204)" fill="#333"/>
+    <text id="service_top_text" data-name="service/top/text" transform="translate(783 5749)" fill="#333" font-size="24" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-23" y="22">Test</tspan></text>
+    <text id="service_top_text-2" data-name="service/top/text" transform="translate(904 5749)" fill="#333" font-size="24" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-23" y="22">Test</tspan></text>
+    <text id="service_top_text-3" data-name="service/top/text" transform="translate(1018 5749)" fill="#333" font-size="24" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-23" y="22">Test</tspan></text>
+  </g>
+</svg>

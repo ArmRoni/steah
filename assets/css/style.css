@@ -533,14 +533,12 @@ header.header {
 
 /* feature-area  */
 .feature-area {
-  /* background:url(../image/Revo-02.png)no-repeat;
   background-size: cover;
-  background-position: center; */
+  background-position: center;
   position: relative;
   color: var(--color-f8f8f8);
   overflow: hidden;
   z-index: 1;
-  /* background-attachment: fixed; */
 }
 .feature-area::after {
   content: "";
@@ -552,18 +550,6 @@ header.header {
   background:url(../image/feature-overlay.png)no-repeat;
   background-size: cover;
   opacity: 0.8;
-  z-index: -1;
-}
-.feature-area-bg {
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center center;
-  background-attachment: fixed;
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  left: 0;
-  top: 0;
   z-index: -1;
 }
 .feature-container {
@@ -1666,16 +1652,17 @@ header.header {
   justify-content: space-between;
 }
 .news-event-items .green-btn {
-  font-size: 12px;
-  line-height: 15px;
+  font-size: 12px !important;
+  line-height: 15px !important;
   font-weight: 400;
   padding: 2px 15px;
   height: 18px;
   display: flex;
   align-items: center;
   justify-content: center;
-  font-family: 'Zen Kaku Gothic New', sans-serif;
+  font-family: 'Zen Kaku Gothic New', sans-serif !important;
   min-width: 104px;
+  color: #fff;
 }
 .news-event-items .news-info p{
   color: #272727;
@@ -1861,7 +1848,7 @@ input[type=number] {
 .service-challenger .counter-box span::after {
   content: "";
     position: absolute;
-    width: 100%;
+    width: 120%;
     height: 2px;
     top: 16px;
     left: 0px;

@@ -533,8 +533,10 @@ header.header {
 
 /* feature-area  */
 .feature-area {
+  background-image: url(../image/Revo-02.png);
   background-size: cover;
   background-position: center;
+  background-attachment: fixed;
   position: relative;
   color: var(--color-f8f8f8);
   overflow: hidden;
@@ -890,7 +892,7 @@ header.header {
 
 .started-jounery-warp {
   margin: -160px 0px;
-  z-index: 2;
+  z-index: 3;
   position: relative;
   padding: 0px 16px;
 }

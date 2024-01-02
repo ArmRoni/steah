@@ -1545,6 +1545,39 @@
         font-size: 10px;
         margin-top: -2px;
     }
+    .feature-area {
+        background: 0 0;
+        position: relative;
+    }
+    .parallax-for-mobile {
+        background-image: url(../image/Revo-02.png);
+        display: block;
+        position: fixed;
+        background-size: cover;
+        background-position: center center;
+        width: 100%;
+        content: '';
+        left: 0;
+        right: 0;
+        height: 100vh;
+        top: 0;
+        z-index: -1;
+        bottom: 0;
+        opacity: 1;
+    }
+    .footer-area,
+    .news-area,
+    .works-area,
+    .service-area,
+    .techonology-area,
+    .hero-area {
+        position:relative;
+        z-index: 2;
+    }
+    .news-area,
+    .works-area {
+        background-color:#F8F8F8
+    }
 }
 @media only screen and (max-width:480px){
     .news-blog-single {

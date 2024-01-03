@@ -1578,6 +1578,9 @@
     .works-area {
         background-color:#F8F8F8
     }
+    .left-arrwo {
+        display: none;
+    }
 }
 @media only screen and (max-width:480px){
     .news-blog-single {
